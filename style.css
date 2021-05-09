@@ -148,6 +148,9 @@ section footer{
   max-width: 1000px;
   
 }
+footer p i{
+  color:red
+}
 @media(min-width:900px){
   article{
     width: 60vw;
