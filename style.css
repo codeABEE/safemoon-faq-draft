@@ -158,4 +158,7 @@ footer p i{
     margin-bottom: 2rem;
   }
 }
+@media(min-width:300px){
+footer p i {
+font-size: 13px }}
   
