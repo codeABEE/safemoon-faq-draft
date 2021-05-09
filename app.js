@@ -37,8 +37,8 @@ let questionBank = [
     },
 {
       questionTitle: 'Where do I get reliable information about
-Safemoon?'
-questionBody: 'https://safemoon.net/'
+Safemoon?',
+questionBody: 'https://safemoon.net/',
 Id:8
 },
     
