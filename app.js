@@ -35,6 +35,12 @@ let questionBank = [
         questionBody:"TRUST WALLET is a safe place to store all  crypto-currencies including safemoon. It's safe and free from hacker's attack.",
         id:7,
     },
+{
+      questionTitle: 'Where do I get reliable information about
+Safemoon?'
+questionBody: 'https://safemoon.net/'
+Id:8
+},
     
 ];
 
