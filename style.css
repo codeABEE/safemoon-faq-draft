@@ -130,11 +130,11 @@ hr{
   
   /* media queries */
   
-  @media (min-width: 992px) {
+/*   @media (min-width: 992px) {
     .main-section {
       width: 60vw;
       color: red;
       font-weight: bold;
     }
-  }
+  } */
   
