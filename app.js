@@ -36,11 +36,10 @@ let questionBank = [
         id:7,
     },
 {
-      questionTitle: 'Where do I get reliable information about
-Safemoon?',
-questionBody: 'https://safemoon.net/',
-Id:8
-},
+      questionTitle: "Where do I get reliable information aboutSafemoon?",
+      questionBody: "https://safemoon.net/",
+      Id:8
+}
     
 ];
 
